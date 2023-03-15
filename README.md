@@ -12,13 +12,10 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=konrad88k&style=flat-square&color=blue" alt="profile views"/>
  -->
 
-### Hi there 👋
+### Hello there! 👋
 
 <!--
-**konrad88k/konrad88k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+EXAMPLES:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 -->
