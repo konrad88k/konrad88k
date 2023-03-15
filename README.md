@@ -63,7 +63,7 @@ EXAMPLES:
 <div align="center">
   :fire: <b>Streak Stats</b> :fire:
   <br><br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=konrad88k&theme=gotham" /><br>
+  <img height="192" src="http://github-readme-streak-stats.herokuapp.com?user=konrad88k&theme=gotham" /><br>
 </div>
 
 #
@@ -71,6 +71,6 @@ EXAMPLES:
 <div align="center">
   :computer: <b>GitHub Profile Stats</b> :computer:
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=konrad88k&theme=gotham" />
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=gotham" />
+  <img height="192" src="https://github-readme-stats.vercel.app/api?username=konrad88k&theme=gotham" />
+  <img height="192" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=gotham" />
 </div>
