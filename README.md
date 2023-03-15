@@ -12,15 +12,15 @@
 
 #
 
-<div align="center">
+<!-- <div align="center">
   👋 <b>Hello there!</b> 
-</div>
+</div> -->
 <br>
 
   <div align="center">
     🔭 I’m currently working on a landing page and couple small projects.<br>
-    🌱 I am currently learning: Javascript, React, Redux.<br>
     ⚡ In my free time, I take on coding challenges and read tech articles.<br>
+    🌱 I am currently learning: Javascript, React, Redux.<br>
     💬 Ask me about anything:<br><br>
     <a href="https://www.linkedin.com/in/konrad-kowalski08/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,8 +63,8 @@
 <div align="center">
   :computer: <b>GitHub Profile Stats</b> :
   <br><br>
-  <img height="192" src="https://github-readme-stats.vercel.app/api?username=konrad88k&hide=stars&count_private=true&theme=gotham" />
-  <img height="192" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=gotham" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=konrad88k&hide=stars&count_private=true&theme=gotham" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=gotham" />
 </div>
 
 #
