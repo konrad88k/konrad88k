@@ -63,7 +63,6 @@
 <div align="center">
   :computer: <b>GitHub Profile Stats</b> :
   <br><br>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=konrad88k&hide=stars&count_private=true&theme=gotham" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=gotham" />
 </div>
 
