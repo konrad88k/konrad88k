@@ -64,7 +64,7 @@
   :computer: <b>GitHub Profile Stats</b> :
   <br><br>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konrad88k&layout=compact&count_private=true&theme=transparent&title_color=44a030&text_color=57606a&border_color=57606a" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=konrad88k&layout=compact&hide=stars&count_private=true&theme=transparent&title_color=44a030&text_color=57606a&border_color=57606a"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=konrad88k&layout=compact&hide=stars&count_private=true&theme=transparent&title_color=44a030&text_color=57606a&border_color=ebdf0"/>
 </div>
 
 #
