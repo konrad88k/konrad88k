@@ -22,7 +22,7 @@
     ⚡ In my free time, I take on coding challenges and read tech articles.<br>
     🌱 I am currently learning: Node.js, React, Redux.<br>
     💬 Ask me about anything:<br><br>
-    <a href="https://www.linkedin.com/in/konrad-kowalski08/">
+    <a href="https://www.linkedin.com/in/kk8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:k8nradk8walski@gmail.com">
