@@ -18,9 +18,9 @@
 <br>
 
   <div align="center">
-    🔭 I’m currently working on a landing page and couple small projects.<br>
+    🔭 I’m currently working on something cool.<br>
     ⚡ In my free time, I take on coding challenges and read tech articles.<br>
-    🌱 I am currently learning: Javascript, React, Redux.<br>
+    🌱 I am currently learning: Node.js, React, Redux.<br>
     💬 Ask me about anything:<br><br>
     <a href="https://www.linkedin.com/in/konrad-kowalski08/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
