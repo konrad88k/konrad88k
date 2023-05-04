@@ -20,7 +20,7 @@
   <div align="center">
     🔭 I’m currently working on something cool.<br>
     ⚡ In my free time, I take on coding challenges and read tech articles.<br>
-    🌱 I am currently learning: Node.js, React, Redux.<br>
+    🌱 I am currently learning: React, Next.<br>
     💬 Ask me about anything:<br><br>
     <a href="https://www.linkedin.com/in/kk8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
