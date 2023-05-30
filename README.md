@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NTJmOTI3N2E0NTljNTU4MzMwYWRkZDI0NTUyZGE5YmMyNDNjNCZjdD1z/Jqy5D7DFs0i5EPkWfV/giphy.gif" width="120"/>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NTJmOTI3N2E0NTljNTU4MzMwYWRkZDI0NTUyZGE5YmMyNDNjNCZjdD1z/Jqy5D7DFs0i5EPkWfV/giphy.gif" width="120"/> -->
 </div>
 <div align="center">
   <a href="https://k88k.netlify.app/" target="_blank">
