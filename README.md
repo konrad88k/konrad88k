@@ -58,7 +58,7 @@
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="35" height="35"/>&nbsp; -->
 </div>
-
+<!--
 #
 
 <div align="center">
@@ -74,4 +74,5 @@
   :fire: <b>Streak Stats</b> :
   <br><br>
   <img height="192" src="http://github-readme-streak-stats.herokuapp.com?user=konrad88k&theme=gotham" /><br>
-</div> -->
+</div>
+-->
