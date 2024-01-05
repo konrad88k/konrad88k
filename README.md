@@ -18,9 +18,10 @@
 <br>
 
   <div align="center">
-    🔭 I’m currently working on something cool.<br>
+<!--    🔭 I’m currently working on something cool.<br>
     ⚡ In my free time, I take on coding challenges.<br>
     🌱 I am currently learning: React, Next.<br>
+-->    
     💬 Ask me about anything:<br><br>
     <a href="https://discordapp.com/users/448585304581079042/">
       <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
