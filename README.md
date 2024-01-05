@@ -25,10 +25,10 @@
     💬 Ask me about anything:<br><br>
     <a href="https://discordapp.com/users/448585304581079042/">
       <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    <a/>
+    <a/> 
     <a href="mailto:k8nradk8walski@gmail.com">
       <img src="https://img.shields.io/badge/Email-63BFB9?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACoUlEQVRoge2Zz4tOURjHP%2B%2FMpJTMQlnYsJiaGEZ%2BLURKJEXZzEIsiAVJaCLxJ9gIoWw0TZmICCUlZSE%2FpxHTREYhf8CMJDN4vzrjLN5533vvOfe9974%2Fpvups3nPec7z%2Fb73nNN57iUnJyenqShIGgXaATXpoysA48ZIsxqYRotx00B6qmW8pTl1V9IW0fcBeA0sBFrrJdBSBD4DK4AlQQOijBjOAy%2BzUheTlUB%2FWEjU0uoEXgCn6%2B0AOAEMhj2NKSSNyc1DSfPMAVfj1i7pvoe%2BMd%2FNvgUYATal9h%2B72WBzbvMZHOfUmg88Ak5lJLyU48ATYIF3RMDS6pN01PEo70iak8Eymy3ppiN3r6Qr5UsryMhVO%2BkOST8iJvwqaV2KJtZI%2BhSR75ekHjv2oo%2BRuyWTL5L0zPEPHUvBxGFHjleSOkrG3%2FAxcjsg0TlHogFJs6ow0Cqp3zH3pYC4gWqNmLZL0mREwo%2BSVsUwsVzSSMR8fyXtCYmtMBLn1LoGLAOGQvo77JXmgMdc%2B4E3wOKQ%2FmGgG%2BjzVhfjiZS28lOjHHNgFBLEuvInWlrlbZ9D0DtJXSUxnZKGHDEHPXOnasS0bknDEcKKkrZL2irpd8S49zH3V6I9EsRbu2%2FC1rIpQ%2B8BDyJu2mbvLbWXwqpJo7AypfJe4FAVsUeA3cCfpCLSrBAvA6uBUY%2BxpkhaC1xIK3nape6gXSbXI8bcArqA52kmzqJmnwB2Ar0BfSeBHuBn2kmzfPlwFlhvRRtzG4EzWSVz1exJeWpLZvPy4kuWibI2YvhWgxyZLq2akhtpNGa0kWIddMSlQmOQkcmGk13JRPkvQcfvZuBxHcT5InsNmkZhqij5%2F8WqmZk530dmzKe3NlsbzG0ALUn43ggicnJycjwB%2FgHROWvgPuqJrAAAAABJRU5ErkJggg%3D%3D&logoColor=white" alt="Email Badge"/>
-    <a/>
+    <a/> 
     <a href="https://www.linkedin.com/in/kk8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
